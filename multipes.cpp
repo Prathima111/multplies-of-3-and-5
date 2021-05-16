@@ -1,4 +1,4 @@
-Multiples of 3 and 5 first question:
+//Multiples of 3 and 5 first question:
 #include<iostream>
 using namespace std;
 int main()
